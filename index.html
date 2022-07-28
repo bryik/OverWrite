@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+<div class="app page-area">
+    <div class="content-area">
+        <div class="text-area-container"></div>
+            <div class="overlay"><pre>const dijkstra = (edges,source,target) => {
+    const Q = new Set(),
+            prev = {},
+            dist = {},
+            adj = {}
+    
+    const vertex_with_min_dist = (Q,dist) => {
+        let min_distance = Infinity,
+            u = null
+    
+        for (let v of Q) {
+            if (dist[v] < min_distance) {
+                min_distance = dist[v]
+                u = v
+            }
+        }
+        return u
+    }
+}
+                </pre>          
+            </div>
+            <textarea class="text-area"></textarea>
+        </div>
+    </div>
+</div>
+</body>
+</html>
