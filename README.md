@@ -2,7 +2,7 @@
 
 A simple overlay template based text editor.
 
-[view demo](https://overwrite.netlify.app/)
+[view demo](https://overwrited.netlify.app/)
 
 ## Available Scripts
 
