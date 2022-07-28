@@ -4,8 +4,6 @@ A simple overlay template based text editor.
 
 [view demo](https://overwrite.netlify.app/)
 
-# Getting Started
-
 ## Available Scripts
 
 In the project directory, you can run:
